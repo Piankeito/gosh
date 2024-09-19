@@ -95,16 +95,28 @@ button
 }
 .layer1 img
 {
-    margin-top: 33%;
-    width: 60%;
-    height: 40%;
+    margin-top: 41%;
+    width: 50%;
+    height: 45%;
     position: relative;
     float: right;
     background-color:azure;
     border-radius:50%;
-    margin-bottom: 5%;
-    
+    margin-bottom: 9%;
 
+}
+
+.layer2 img
+{
+    margin-top: 15%;
+    width: 50%;
+    height: 45%;
+    position: relative;
+    float: left;
+    background-color:azure;
+    border-radius:50%;
+    line-height: 0%;
+    
 }
 @media screen and (max-width: 800px) {
     body
@@ -137,7 +149,7 @@ button
         background-color:azure;
         border-radius:50%;
     }
-    .layer1 img
+     .layer1 img
     {
         margin-top: 27%;
         width: 50%;
@@ -147,6 +159,17 @@ button
         background-color:azure;
         border-radius:50%;
         margin-bottom: 5%;
+    }
+    .layer2 img
+    {
+        margin-top: 7%;
+        width: 50%;
+        height: 30%;
+        position: relative;
+        float: left;
+        background-color:azure;
+        border-radius:50%;
+    
     }
 
 }
