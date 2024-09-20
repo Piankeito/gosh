@@ -98,7 +98,7 @@ button
     margin-top: 41%;
     width: 45%;
     height: 45%;
-    position: relative;
+    position: fixed;
     float: right;
     background-color:azure;
     border-radius:50%;
@@ -111,7 +111,7 @@ button
     margin-top: 15%;
     width: 50%;
     height: 45%;
-    position: relative;
+    position: fixed;
     float: left;
     background-color:azure;
     border-radius:50%;
